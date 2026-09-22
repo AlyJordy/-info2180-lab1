@@ -7,6 +7,14 @@ h2 {
   font-size: 21px;
   color: #6060DD;
 }
+.profile-pic {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 20px auto;
+}
 
 p {
   font-size: 16px;
